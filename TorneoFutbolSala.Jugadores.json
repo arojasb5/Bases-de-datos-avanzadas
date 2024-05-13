@@ -1,0 +1,418 @@
+[{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc6c"
+  },
+  "id_jugador": "1",
+  "nombre": "Carlos",
+  "cel": "111111",
+  "goles": "2",
+  "faltas": "2",
+  "equipo": "Bogota fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc6d"
+  },
+  "id_jugador": "2",
+  "nombre": "Juan",
+  "cel": "111112",
+  "goles": "1",
+  "faltas": "0",
+  "equipo": "Bogota fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc6e"
+  },
+  "id_jugador": "3",
+  "nombre": "Pedro",
+  "cel": "111113",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Bogota fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc6f"
+  },
+  "id_jugador": "4",
+  "nombre": "Martin",
+  "cel": "111114",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Bogota fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc70"
+  },
+  "id_jugador": "5",
+  "nombre": "Luis",
+  "cel": "111115",
+  "goles": "3",
+  "faltas": "0",
+  "equipo": "Bogota fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc71"
+  },
+  "id_jugador": "6",
+  "nombre": "Lucas",
+  "cel": "111116",
+  "goles": "",
+  "faltas": "3",
+  "equipo": "Bogota fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc72"
+  },
+  "id_jugador": "7",
+  "nombre": "Domingues",
+  "cel": "111117",
+  "goles": "",
+  "faltas": "4",
+  "equipo": "Bogota fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc73"
+  },
+  "id_jugador": "8",
+  "nombre": "Fabian",
+  "cel": "111118",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Bogota fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc74"
+  },
+  "id_jugador": "9",
+  "nombre": "Andres",
+  "cel": "111119",
+  "goles": "",
+  "faltas": "1",
+  "equipo": "Bogota fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc75"
+  },
+  "id_jugador": "10",
+  "nombre": "Antonio",
+  "cel": "111121",
+  "goles": "",
+  "faltas": "3",
+  "equipo": "Cali"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc76"
+  },
+  "id_jugador": "11",
+  "nombre": "Marco",
+  "cel": "111122",
+  "goles": "",
+  "faltas": "2",
+  "equipo": "Cali"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc77"
+  },
+  "id_jugador": "12",
+  "nombre": "Miguel",
+  "cel": "111123",
+  "goles": "4",
+  "faltas": "0",
+  "equipo": "Cali"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc78"
+  },
+  "id_jugador": "13",
+  "nombre": "Michael",
+  "cel": "111124",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Cali"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc79"
+  },
+  "id_jugador": "14",
+  "nombre": "Brayan",
+  "cel": "111125",
+  "goles": "2",
+  "faltas": "0",
+  "equipo": "Cali"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc7a"
+  },
+  "id_jugador": "15",
+  "nombre": "Andres",
+  "cel": "111126",
+  "goles": "",
+  "faltas": "4",
+  "equipo": "Cali"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc7b"
+  },
+  "id_jugador": "16",
+  "nombre": "Nicolas",
+  "cel": "111127",
+  "goles": "2",
+  "faltas": "2",
+  "equipo": "Cali"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc7c"
+  },
+  "id_jugador": "17",
+  "nombre": "Gohan",
+  "cel": "111128",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Cali"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc7d"
+  },
+  "id_jugador": "18",
+  "nombre": "varela",
+  "cel": "111129",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Cali"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc7e"
+  },
+  "id_jugador": "19",
+  "nombre": "kevin",
+  "cel": "111130",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Cali"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc7f"
+  },
+  "id_jugador": "20",
+  "nombre": "cristian",
+  "cel": "111131",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Cali"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc80"
+  },
+  "id_jugador": "21",
+  "nombre": "Brandon",
+  "cel": "111132",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Fusa fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc81"
+  },
+  "id_jugador": "22",
+  "nombre": "Victor",
+  "cel": "111133",
+  "goles": "1",
+  "faltas": "0",
+  "equipo": "Fusa fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc82"
+  },
+  "id_jugador": "23",
+  "nombre": "Manuel",
+  "cel": "111134",
+  "goles": "3",
+  "faltas": "0",
+  "equipo": "Fusa fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc83"
+  },
+  "id_jugador": "24",
+  "nombre": "Luis",
+  "cel": "111135",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Fusa fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc84"
+  },
+  "id_jugador": "25",
+  "nombre": "Sebastian",
+  "cel": "111136",
+  "goles": "1",
+  "faltas": "0",
+  "equipo": "Fusa fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc85"
+  },
+  "id_jugador": "26",
+  "nombre": "Ronaldo",
+  "cel": "111137",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Fusa fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc86"
+  },
+  "id_jugador": "27",
+  "nombre": "Reinaldo",
+  "cel": "111138",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Fusa fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc87"
+  },
+  "id_jugador": "28",
+  "nombre": "Francisco",
+  "cel": "111139",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Fusa fc"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc88"
+  },
+  "id_jugador": "29",
+  "nombre": "Marco",
+  "cel": "111140",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Medellin"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc89"
+  },
+  "id_jugador": "30",
+  "nombre": "Jose",
+  "cel": "111141",
+  "goles": "",
+  "faltas": "2",
+  "equipo": "Medellin"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc8a"
+  },
+  "id_jugador": "31",
+  "nombre": "David",
+  "cel": "111142",
+  "goles": "",
+  "faltas": "1",
+  "equipo": "Medellin"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc8b"
+  },
+  "id_jugador": "32",
+  "nombre": "Alexander",
+  "cel": "111143",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Medellin"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc8c"
+  },
+  "id_jugador": "33",
+  "nombre": "Jhon",
+  "cel": "111144",
+  "goles": "",
+  "faltas": "2",
+  "equipo": "Medellin"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc8d"
+  },
+  "id_jugador": "34",
+  "nombre": "Jonathan",
+  "cel": "111145",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Medellin"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc8e"
+  },
+  "id_jugador": "35",
+  "nombre": "Fabio",
+  "cel": "111146",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Medellin"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc8f"
+  },
+  "id_jugador": "36",
+  "nombre": "Augusto",
+  "cel": "111147",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Medellin"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc90"
+  },
+  "id_jugador": "37",
+  "nombre": "Albeiro",
+  "cel": "111148",
+  "goles": "2",
+  "faltas": "0",
+  "equipo": "Medellin"
+},
+{
+  "_id": {
+    "$oid": "664191ca6fd2735999a8fc91"
+  },
+  "id_jugador": "38",
+  "nombre": "Pedro",
+  "cel": "111149",
+  "goles": "",
+  "faltas": "0",
+  "equipo": "Medellin"
+}]

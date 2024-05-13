@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "66418e526fd2735999a8fc62"
+  },
+  "identificación_ar": "1",
+  "nombre": "Carlos",
+  "celular": "00000001"
+},
+{
+  "_id": {
+    "$oid": "66418e526fd2735999a8fc63"
+  },
+  "identificación_ar": "2",
+  "nombre": "Martin",
+  "celular": "00000002"
+},
+{
+  "_id": {
+    "$oid": "66418e526fd2735999a8fc64"
+  },
+  "identificación_ar": "3",
+  "nombre": "Juan",
+  "celular": "00000003"
+},
+{
+  "_id": {
+    "$oid": "66418e526fd2735999a8fc65"
+  },
+  "identificación_ar": "4",
+  "nombre": "Domingo",
+  "celular": "00000004"
+}]

@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "664196246fd2735999a8fcab"
+  },
+  "id_posicion": "1",
+  "id_equipo": "1",
+  "nombre_equipo": "Bogota fc",
+  "goles": "6",
+  "victorias": "2",
+  "derrotas": "0",
+  "empates": "0",
+  "puntos": "6"
+},
+{
+  "_id": {
+    "$oid": "664196246fd2735999a8fcac"
+  },
+  "id_posicion": "2",
+  "id_equipo": "2",
+  "nombre_equipo": "Cali",
+  "goles": "8",
+  "victorias": "1",
+  "derrotas": "1",
+  "empates": "1",
+  "puntos": "4"
+},
+{
+  "_id": {
+    "$oid": "664196246fd2735999a8fcad"
+  },
+  "id_posicion": "3",
+  "id_equipo": "3",
+  "nombre_equipo": "Fusa fc",
+  "goles": "5",
+  "victorias": "0",
+  "derrotas": "1",
+  "empates": "1",
+  "puntos": "1"
+},
+{
+  "_id": {
+    "$oid": "664196246fd2735999a8fcae"
+  },
+  "id_posicion": "4",
+  "id_equipo": "4",
+  "nombre_equipo": "Medellin",
+  "goles": "2",
+  "victorias": "0",
+  "derrotas": "1",
+  "empates": "0",
+  "puntos": "0"
+}]

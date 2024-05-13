@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "664193cd6fd2735999a8fc9d"
+  },
+  "id_encuentro": "1",
+  "equipo_local": "Bogota fc",
+  "goles_equipo_l": "3",
+  "equipo_visitante": "Cali",
+  "goles_equipo_v": "2",
+  "arbitro": "Carlos"
+},
+{
+  "_id": {
+    "$oid": "664193cd6fd2735999a8fc9e"
+  },
+  "id_encuentro": "2",
+  "equipo_local": "Cali",
+  "goles_equipo_l": "2",
+  "equipo_visitante": "Fusa fc",
+  "goles_equipo_v": "1",
+  "arbitro": "Carlos"
+},
+{
+  "_id": {
+    "$oid": "664193cd6fd2735999a8fc9f"
+  },
+  "id_encuentro": "3",
+  "equipo_local": "Medellin",
+  "goles_equipo_l": "2",
+  "equipo_visitante": "Bogota fc",
+  "goles_equipo_v": "3",
+  "arbitro": "Martin"
+},
+{
+  "_id": {
+    "$oid": "664193cd6fd2735999a8fca0"
+  },
+  "id_encuentro": "4",
+  "equipo_local": "Fusa fc",
+  "goles_equipo_l": "4",
+  "equipo_visitante": "Cali",
+  "goles_equipo_v": "4",
+  "arbitro": "Juan"
+}]

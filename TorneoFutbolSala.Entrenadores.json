@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "664192916fd2735999a8fc94"
+  },
+  "id_entrenador": "1",
+  "nombre": "Carlos Durango",
+  "equipo": "Bogota fc"
+},
+{
+  "_id": {
+    "$oid": "664192916fd2735999a8fc95"
+  },
+  "id_entrenador": "2",
+  "nombre": "Victro Hernandez",
+  "equipo": "Cali"
+},
+{
+  "_id": {
+    "$oid": "664192916fd2735999a8fc96"
+  },
+  "id_entrenador": "3",
+  "nombre": "Camilo Diaz",
+  "equipo": "Fusa fc"
+},
+{
+  "_id": {
+    "$oid": "664192916fd2735999a8fc97"
+  },
+  "id_entrenador": "4",
+  "nombre": "Jose Grisales",
+  "equipo": "Medellin"
+}]
